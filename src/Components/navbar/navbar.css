@@ -39,3 +39,13 @@
     border-radius: 10px;
     font-size: 11px;
 }
+
+@media only screen and (max-width: 1279px) {
+    .nav-bar .menu-nav-bar{
+        top: 40%;
+    }
+    .nav-bar .btn-getStd{
+        height: 30%;
+        top: 28%;
+    }
+  }

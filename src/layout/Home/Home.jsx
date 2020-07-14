@@ -36,7 +36,7 @@ const Home = () => {
             </div>
             <h2 className="h2-title">Make Your Profesional Website</h2>
             <div className="web-home">
-                <img src={imgPor} alt=""/>
+                <img src={imgPor} alt="" className="img-porto" />
                 <div className="web-home-detail">
                     <div className="porto-web">
                         <p className="p-satu">Best Services</p>

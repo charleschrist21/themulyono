@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Switch,Redirect} from 'react-router-dom'
 
 // import component
 import Navbar from './Components/navbar/navbar'
@@ -14,8 +14,12 @@ function App() {
     <Router>
       <Navbar/>
       <Switch>
+        
         <Route path="/" exact="true">
             <Home/>
+        </Route>
+        <Route>
+          <Redirect to="/" />
         </Route>
         <Route path="/das">
           <div className="App">
