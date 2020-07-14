@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/themulyono/static/css/main.14f4aba4.chunk.css",
+    "main.js": "/themulyono/static/js/main.377af111.chunk.js",
+    "main.js.map": "/themulyono/static/js/main.377af111.chunk.js.map",
+    "runtime-main.js": "/themulyono/static/js/runtime-main.fbac623f.js",
+    "runtime-main.js.map": "/themulyono/static/js/runtime-main.fbac623f.js.map",
+    "static/js/2.6e38322e.chunk.js": "/themulyono/static/js/2.6e38322e.chunk.js",
+    "static/js/2.6e38322e.chunk.js.map": "/themulyono/static/js/2.6e38322e.chunk.js.map",
+    "index.html": "/themulyono/index.html",
+    "precache-manifest.15cceacb4980f75a6d60527ffe210e18.js": "/themulyono/precache-manifest.15cceacb4980f75a6d60527ffe210e18.js",
+    "service-worker.js": "/themulyono/service-worker.js",
+    "static/css/main.14f4aba4.chunk.css.map": "/themulyono/static/css/main.14f4aba4.chunk.css.map",
+    "static/js/2.6e38322e.chunk.js.LICENSE.txt": "/themulyono/static/js/2.6e38322e.chunk.js.LICENSE.txt",
+    "static/media/gitIc.svg": "/themulyono/static/media/gitIc.5ea1a053.svg",
+    "static/media/icMore.svg": "/themulyono/static/media/icMore.17585e5c.svg",
+    "static/media/ilusAnd.svg": "/themulyono/static/media/ilusAnd.853c86d7.svg",
+    "static/media/ilusOne.svg": "/themulyono/static/media/ilusOne.851bfc03.svg",
+    "static/media/ilusUI.svg": "/themulyono/static/media/ilusUI.5578f8c2.svg",
+    "static/media/imgFire.svg": "/themulyono/static/media/imgFire.b4ea7f5c.svg",
+    "static/media/logo.svg": "/themulyono/static/media/logo.5d5d9eef.svg",
+    "static/media/logoM.svg": "/themulyono/static/media/logoM.42458fc9.svg",
+    "static/media/weWith.svg": "/themulyono/static/media/weWith.9dc65760.svg",
+    "static/media/webPor.svg": "/themulyono/static/media/webPor.b660bedf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbac623f.js",
+    "static/js/2.6e38322e.chunk.js",
+    "static/css/main.14f4aba4.chunk.css",
+    "static/js/main.377af111.chunk.js"
+  ]
+}
