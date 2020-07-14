@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Navbar/>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/" exact="true">
             <Home/>
         </Route>
         <Route path="/das">
