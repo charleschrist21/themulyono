@@ -1,0 +1,320 @@
+.home{
+    width: 100%;
+    height: 100%;
+}
+.home-menu{
+    color: black!important;
+}
+.home .utama-home{
+    width: 100%;
+    height: 500px;
+    /* border: 1px solid black; */
+    margin-top: 50px;
+}
+.home .utama-home .title-utama{
+    position: absolute;
+    width: 38%;
+    height: 82%;
+    left: 10%;
+    /* border: 1px solid black; */
+}
+.home .utama-home .title-utama .theM-title{
+    width: 50%;
+    height: 6%;
+    /* border: 1px solid black; */
+}
+.home .utama-home .title-utama .theM-title img{
+    position: absolute;
+    display: inline-block;
+}
+.home .utama-home .title-utama .theM-title p{
+    margin-block-start: 0.2em;
+    left: 10%;
+    position: absolute;
+    font-weight: bold;
+}
+.home .utama-home .title-utama .work-with-we{
+    width: 100%;
+    height: 90%;
+    /* border: 1px solid black; */
+}
+.home .utama-home .title-utama .work-with-we img{
+    width: 100%;
+}
+.home .utama-home .title-utama .btn-work-with{
+    width: 100%;
+    height: 11%;
+    /* border: 1px solid black; */
+}
+.home .utama-home .title-utama .btn-work-with button{
+    width: 30%;
+    height: 100%;
+    margin-left: 5%;
+    border: none;
+    border-radius: 10px;
+}
+.lets-try{
+    background-color: #50EB19;
+    color: white;
+}
+.look-more{
+    background-color: white;
+    border: 1px solid #CBCBCB!important;
+    color: #636363;
+}
+.home .utama-home .img-ilus{
+    position: absolute;
+    width: 50%;
+    height: 80%;
+    left: 50%;
+    /* border: 1px solid black; */
+}
+.home .utama-home .img-ilus img{
+    width: 95%;
+}
+.home .h2-title{
+    left: 12%;
+    top: 70px;
+    color: #666666;
+    position: relative;
+    width: 50%;
+}
+.home .web-home{
+    width: 88%;
+    height: 500px;
+    /* border: 1px solid black; */
+    position: relative;
+    top: 100px;
+    left: 10%;
+}
+.home .web-home .web-home-detail{
+    width: 100%;
+    height: 50%;
+    /* border: 1px solid black; */
+    margin-top: 100px;
+}
+.home .web-home .web-home-detail .porto-web{
+    width: 33%;
+    height: 100%;
+    /* border: 1px solid black; */
+    display: inline-block;
+}
+.home .web-home .web-home-detail .porto-web .p-satu{
+    position: absolute;
+    margin-block-start: 0;
+    font-size: 96px;
+    width: 33%;
+    font-weight: bold;
+
+}
+.porto-dua{
+    border-left: 1px solid #ADADAD;
+    border-right: 1px solid #ADADAD;
+    top: -100px;
+    position: relative;
+}
+.porto-dua .total{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin:auto;
+    position: relative;
+    top: 50px;
+    /* border: 1px solid black; */
+}
+.porto-dua .total p{
+    position: absolute;
+}
+.porto-dua .total .total-nbr{
+    display: inline-block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    position: absolute;
+    font-size: 144px;
+    display: inline-block;
+    margin-top: -50px;
+}
+.porto-dua .total .por-text{
+    margin-top: 85px;
+    margin-left: 130px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.porto-dua .git-link{
+    width: 70%;
+    height: 10%;
+    display: block;
+    margin:auto;
+    position: relative;
+    top: 50px;
+}
+.porto-dua .git-link img{
+    display: inline;
+    height: 100%;
+    position: absolute;
+}
+.porto-dua .git-link p{
+    margin-block-start: 0;
+    left: 25%;
+    position: relative;
+    font-weight: bold;
+}
+.porto-dua .git-link p a{
+    color: #33CCFC;
+    text-decoration: none;
+}
+.web-home-detail .porto-tiga .text-look-more{
+    width: 70%;
+    position: relative;
+    height: 70%;
+    /* border: 1px solid black ; */
+    margin: auto;
+    top: 18%;
+}
+.web-home-detail .porto-tiga .text-look-more .why-should-we{
+    width: 70%;
+    height: 20%;
+    position: absolute;
+    /* border: 1px solid black; */
+    font-size: 24px;
+    font-weight: bold;
+}
+.web-home-detail .porto-tiga .text-look-more .why-detail{
+    width: 70%;
+    height: 50%;
+    position: absolute;
+    margin-top: 20%;
+    /* border: 1px solid black; */
+    font-size: 18px;
+    color: #7E7E7E;
+    font-weight: 500;
+}
+.web-home-detail .porto-tiga .text-look-more .find-more{
+    width: 70%;
+    height: 20%;
+    position: absolute;
+    margin-top: 55%;
+    /* border: 1px solid black; */
+    font-weight: 500;
+    font-size: 18px;
+    color: #1D00D1;
+}
+.web-home-detail .porto-tiga .text-look-more .find-more p{
+    margin-left: 15%;
+    margin-top: -3px;
+}
+
+.web-home-detail .porto-web .text-look-more p{
+    margin-block-start: 0;
+    position: relative;
+}
+.ic-more{
+    position: absolute;
+}
+
+.web-home .android-porto{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin: auto;
+    /* border: 1px solid black; */
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.web-home .android-porto img{
+    position: absolute;
+    height: 100%;
+}
+.web-home .android-porto .title-android{
+    width: 60%;
+    position: absolute;
+    margin-left: 40%;
+    height: 25%;
+    /* border: 1px solid black; */
+    /* margin-top: 5%; */
+    font-size: 64px;
+    font-weight: bold;
+}
+.web-home .android-porto p{
+    margin-block-start: 0;
+    
+}
+.web-home .android-porto .android-detail{
+    width: 60%;
+    position: absolute;
+    margin-left: 40%;
+    height: 25%;
+    /* border: 1px solid black; */
+    margin-top: 18%;
+    font-size: 36px;
+    font-weight: 600;
+    color: #B1B1B1;
+}
+.web-home .android-porto .find-more{
+    width: 60%;
+    position: absolute;
+    margin-left:40%;
+    height: 5%;
+    /* border: 1px solid black; */
+    margin-top: 35%;
+    font-weight: 500;
+    font-size: 18px;
+    color: #1D00D1;
+}
+.web-home .android-porto .find-more p{
+    margin-left: 5%;
+}
+.web-home .UI-porto{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin: auto;
+    /* border: 1px solid black; */
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+.web-home .UI-porto .ilus-ui{
+    height: 100%;
+    position: absolute;
+    right: 5%;
+}
+.web-home .UI-porto .ui-title{
+    width: 60%;
+    position: absolute;
+    left: 18%;
+    height: 25%;
+    /* border: 1px solid black; */
+    margin-top: 5%;
+    font-size: 64px;
+    font-weight: bold;
+}
+.web-home .UI-porto .ui-detail{
+    width: 60%;
+    position: absolute;
+    margin-left: 18%;
+    height: 25%;
+    /* border: 1px solid black; */
+    margin-top: 17%;
+    font-size: 28px;
+    font-weight: 600;
+    color: #B1B1B1;
+}
+.web-home .UI-porto .find-more{
+    width: 60%;
+    position: absolute;
+    margin-left:18%;
+    height: 5%;
+    /* border: 1px solid black; */
+    margin-top: 30%;
+    font-weight: 500;
+    font-size: 18px;
+    color: #1D00D1;
+}
+.web-home .UI-porto .find-more img{
+    position: absolute;
+}
+.web-home .UI-porto .find-more p{
+    margin-left: 5%;
+    margin-top: -3px;
+}

@@ -1,0 +1,41 @@
+.nav-bar{
+    position: relative;
+    width: 100%;
+    height: 150px; 
+    display: inline-block;
+}
+.nav-bar .img-logo{
+    width:10%;
+    position: absolute;
+    display: inline-block;
+    left: 5%;
+    top: 20%;
+}
+.nav-bar .menu-nav-bar{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    /* border: 1px solid black; */
+    left: 20%;
+    top: 50%    ;
+}
+.nav-bar .menu-nav-bar .link{
+    color: #7C7C7C;
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 10%;
+    margin-block-start: 0em;
+
+}
+.nav-bar .btn-getStd{
+    position: absolute;
+    right: 5%;
+    width: 8%;
+    height: 35%;
+    top: 32.5%;
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    font-size: 11px;
+}
