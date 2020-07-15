@@ -1,6 +1,10 @@
 .App {
   background-color: white;
   font-family: roboto;
+  height: 100%;
+}
+body{
+  height: 100%;
 }
 
 .App-logo {
