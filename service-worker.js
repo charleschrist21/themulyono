@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/themulyono/precache-manifest.8731c031f2df5a6d48daf09f54a42db5.js"
+  "/themulyono/precache-manifest.b6b26341567c88b6fcce052db04ddda2.js"
 );
 
 self.addEventListener('message', (event) => {
