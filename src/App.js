@@ -5,9 +5,11 @@ import {BrowserRouter as Router, Route, Switch,Redirect} from 'react-router-dom'
 
 // import component
 import Navbar from './Components/navbar/navbar'
+import Footer from './Components/footer/footer'
 
 // import layout
 import Home from './layout/Home/Home'
+import Blog from './layout/Blog/Blog'
 
 function App() {
   return (
@@ -15,12 +17,16 @@ function App() {
       <Navbar/>
       <Switch>
         
-        <Route path="/" exact="true">
+        <Route path="/" exact>
             <Home/>
+        </Route>
+        <Route path="/blog" exact>
+            <Blog/>
         </Route>
         <Route>
           <Redirect to="/" />
         </Route>
+        
         <Route path="/das">
           <div className="App">
             <header className="App-header">
@@ -40,6 +46,7 @@ function App() {
           </div>
         </Route>
       </Switch>
+        <Footer/>
     </Router>
     
   );
