@@ -48,7 +48,7 @@ const Home = () => {
                         </div>
                         <div className="git-link">
                         <img src={gitIc} alt=""/>
-                            <p> Check Portofolio <a href="">Github</a></p>
+                            <p> Check Portofolio <a href="https://github.com/charleschrist21" target="_blank">Github</a></p>
                         </div>
                     </div>
                     <div className="porto-web porto-tiga">
