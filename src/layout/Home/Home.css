@@ -61,11 +61,24 @@
 .lets-try{
     background-color: #50EB19;
     color: white;
+    cursor: pointer;
+}
+.lets-try:hover{
+    background-color: #ffffff;
+    border: 2px solid #50EB19!important;
+    color: #50EB19;
 }
 .look-more{
     background-color: white;
-    border: 1px solid #CBCBCB!important;
+    border: 2px solid #CBCBCB!important;
     color: #636363;
+    cursor: pointer;
+}
+.look-more:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none!important;
 }
 .home .utama-home .img-ilus{
     position: absolute;
