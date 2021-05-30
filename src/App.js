@@ -10,6 +10,7 @@ import Footer from './Components/footer/footer'
 // import layout
 import Home from './layout/Home/Home'
 import Blog from './layout/Blog/Blog'
+import Profile from './layout/Profile/Profile'
 
 function App() {
   return (
@@ -22,6 +23,9 @@ function App() {
         </Route>
         <Route path="/blog" exact>
             <Blog/>
+        </Route>
+        <Route path="/profile" exact>
+            <Profile/>
         </Route>
         <Route>
           <Redirect to="/" />
@@ -46,7 +50,7 @@ function App() {
           </div>
         </Route>
       </Switch>
-        <Footer/>
+      <Footer/>
     </Router>
     
   );

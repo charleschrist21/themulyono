@@ -5,6 +5,12 @@
 .home-menu{
     color: black!important;
 }
+.blog-menu{
+    color: #7C7C7C!important;
+}
+.profile-menu{
+    color: #7C7C7C!important;
+}
 .home .utama-home{
     width: 100%;
     height: 500px;
