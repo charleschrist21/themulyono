@@ -50,7 +50,6 @@ function App() {
           </div>
         </Route>
       </Switch>
-      <Footer/>
     </Router>
     
   );
