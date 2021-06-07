@@ -348,9 +348,12 @@
 
 
 /*responsive 1024*/
-@media only screen and (max-width: 1279px) {
+@media only screen and (max-width: 1024px) {
     .home .utama-home{
         margin-top: 0;
+    }
+    .home .utama-home .title-utama .btn-work-with{
+        height: 50px;
     }
     .home .h2-title{
         top: -40px;
@@ -359,19 +362,31 @@
         top: 0;
     }
     .home .web-home .web-home-detail .porto-web .p-satu{
-        font-size: 72px;
+        font-size: 52px;
     }
     .home .web-home .web-home-detail{
         height: 40%;
     }
     .porto-dua .total .total-nbr{
-        margin-top: -80px;
+        margin-left: -20px;
+        font-size: 110px;
+        margin-top: -70px;
     }
     .porto-dua .total .por-text{
-        margin-top: 55px;
+        margin-top: 30px;
+        margin-left: 90px;
+    }
+    .porto-dua .git-link p{
+        font-size: 9px;
+        margin-left: 20px;
+        top: 4px;
+    }
+    .porto-dua .git-link{
+        top: 30px;
     }
     .web-home-detail .porto-web .text-look-more p{
         margin-block-start: -30px;
+        font-size: 13px;
     }
     .web-home-detail .porto-tiga .text-look-more .why-should-we{
         font-size: 18px;
@@ -384,17 +399,20 @@
         margin-top: 55%;
     }
     .web-home-detail .porto-tiga .text-look-more .find-more p{
-        margin-left: 20%;
-        margin-top: -2px;
+        margin-left: 22%;
+        margin-top: -0px;
     }
     .web-home .android-porto{
-        height: 400px;
+        height: 300px;
     }
     .web-home .android-porto .title-android{
-        font-size: 48px;
+        font-size: 40px;
     }
     .web-home .android-porto .android-detail{
-        font-size: 24px;
+        font-size: 20px;
+    }
+    .web-home .android-porto .find-more{
+        font-size: 16px;
     }
     .web-home .UI-porto{
         height: 350px;
@@ -403,6 +421,12 @@
         margin-top: -2%;
     }
     .web-home .UI-porto .ui-detail{
-        margin-top: 14%;
+        margin-top: 17%;
+        font-size: 18px;
+        margin-left: 40px;
     }
+}
+
+@media only screen and (max-width: 768px) {
+
 }

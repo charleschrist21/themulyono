@@ -17,7 +17,7 @@
     height: 20%;
     /* border: 1px solid black; */
     left: 20%;
-    top: 50%    ;
+    top: 50%;
 }
 .nav-bar .menu-nav-bar .link{
     color: #7C7C7C;
@@ -50,12 +50,36 @@
     color: black;
 }
 
-@media only screen and (max-width: 1279px) {
+@media only screen and (max-width: 1024px) {
     .nav-bar .menu-nav-bar{
-        top: 40%;
+        top: 30%;
     }
     .nav-bar .btn-getStd{
         height: 30%;
         top: 28%;
+    }
+    .nav-bar .btn-getStd{
+        font-size: 8px;
+        height: 25%;
+    }
+    .nav-bar .menu-nav-bar .link{
+        font-size: 11px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .nav-bar .menu-nav-bar{
+        top: 30%;
+    }
+    .nav-bar .btn-getStd{
+        height: 30%;
+        top: 28%;
+    }
+    .nav-bar .btn-getStd{
+        font-size: 3px;
+        height: 15%;
+    }
+    .nav-bar .menu-nav-bar .link{
+        font-size: 8px;
     }
   }
